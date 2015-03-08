@@ -1,6 +1,9 @@
 # ExData_Plotting1
 Plotting Assignment 1 for Exploratory Data Analysis
 
+### One thing to mention
+Names of week' days is labeled in Cyrillic on plots.
+
 ## Introduction
 
 This assignment uses data from
