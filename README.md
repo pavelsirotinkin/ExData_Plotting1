@@ -2,7 +2,7 @@
 Plotting Assignment 1 for Exploratory Data Analysis
 
 ### One thing to mention
-Names of week' days is labeled in Cyrillic on plots.
+Names of week' days are labeled in Cyrillic on plots.
 
 ## Introduction
 
